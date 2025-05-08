@@ -8,9 +8,19 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 144122853
+  numberOfFiles: 47
+  numberOfSamples: 8
+  numberOfSubjects: 8
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Däschler, Simeon; Bourget, Marie-Hélène; Collin, Armand; Derakhshan, Dorsa;
   Sharma, Vasudev; Asenov, Stoyan; Gordon, Tessa; Cohen-Adad, Julien; Borschel, Gregory
   Howard (2025) Bright-Field Images of Rat Nerves at Different Regeneration Stages

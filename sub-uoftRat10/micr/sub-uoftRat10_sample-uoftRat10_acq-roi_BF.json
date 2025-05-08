@@ -1,0 +1,9 @@
+{
+    "PixelSize": [0.1, 0.1],
+    "PixelSizeUnits": "um",
+    "BodyPartDetails": "Peripheral nerves",
+    "SampleEnvironment": "ex vivo",
+    "NumericalAperture": 1.4,
+    "Magnification": 63,
+    "SampleStaining": "Osmium tetroxide"
+}

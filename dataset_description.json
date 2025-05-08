@@ -1,0 +1,16 @@
+{
+    "Name": "data_axondeepseg_bf cropped training data",
+    "Authors": [
+        "Simeon Christian Daeschler",
+        "Marie-Hélène Bourget",
+        "Dorsa Derakhshan",
+        "Vasudev Sharma",
+        "Stoyan Ivaylov Asenov",
+        "Tessa Gordon",
+        "Julien Cohen-Adad",
+        "Gregory Howard Borschel",
+        "Armand Collin"
+    ],
+    "BIDSVersion": "1.7.0",
+    "License": "MIT"
+}

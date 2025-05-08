@@ -1,0 +1,18 @@
+- Bright-Field Optical Microscopy (BF) dataset for AxonDeepSeg (https://axondeepseg.readthedocs.io/)
+- Rat peripheral nerves across different axonal regeneration stages.
+- Data collected from adult rats in experimental nerve repair studies.
+- 8 samples cropped to ROI used as training data.
+    - sub-uoftRat02
+    - sub-uoftRat04
+    - sub-uoftRat07
+    - sub-uoftRat08
+    - sub-uoftRat09
+    - sub-uoftRat10
+    - sub-uoftRat16
+    - sub-uoftRat17
+- Corresponding axon, myelin, axonmyelin manual segmentation "labels" in derivatives.
+- This dataset is a subset of the full dataset used in this publication:
+    - https://www.nature.com/articles/s41598-022-10066-6
+    - training set for the AxonDeepSeg model developed and validated in the article
+
+- Microscopy BEP031 version 0.0.5 (2021-09-07T14:20:00)
