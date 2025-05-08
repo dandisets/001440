@@ -11,9 +11,10 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Däschler, Simeon; Bourget, Marie-Hélène; Collin, Armand (2025) Bright-Field
-  Images of Rat Nerves at Different Regeneration Stages with Axon and Myelin Segmentations
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001440/draft
+citation: Däschler, Simeon; Bourget, Marie-Hélène; Collin, Armand; Derakhshan, Dorsa;
+  Sharma, Vasudev; Asenov, Stoyan; Gordon, Tessa; Cohen-Adad, Julien; Borschel, Gregory
+  Howard (2025) Bright-Field Images of Rat Nerves at Different Regeneration Stages
+  with Axon and Myelin Segmentations (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001440/draft
 contributor:
 - identifier: 0000-0001-8130-7714
   includeInCitation: true
@@ -41,6 +42,48 @@ contributor:
   name: Collin, Armand
   roleName:
   - dcite:ContactPerson
+  schemaKey: Person
+- includeInCitation: true
+  name: Derakhshan, Dorsa
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Sharma, Vasudev
+  roleName:
+  - dcite:DataCurator
+  schemaKey: Person
+- includeInCitation: true
+  name: Asenov, Stoyan
+  roleName:
+  - dcite:DataCurator
+  schemaKey: Person
+- includeInCitation: true
+  name: Gordon, Tessa
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- email: jcohen@polymtl.ca
+  identifier: 0000-0003-3662-9532
+  includeInCitation: true
+  name: Cohen-Adad, Julien
+  roleName:
+  - dcite:Author
+  - dcite:ContactPerson
+  - dcite:DataCurator
+  - dcite:DataManager
+  - dcite:Maintainer
+  - dcite:Supervision
+  schemaKey: Person
+- identifier: 0000-0001-7691-5264
+  includeInCitation: true
+  name: Borschel, Gregory Howard
+  roleName:
+  - dcite:Author
+  - dcite:Conceptualization
+  - dcite:DataCollector
+  - dcite:FundingAcquisition
+  - dcite:Supervision
   schemaKey: Person
 dateCreated: '2025-05-08T13:49:30.165960+00:00'
 description: "- Bright-Field Optical Microscopy (BF) dataset for AxonDeepSeg (https://axondeepseg.readthedocs.io/)\n
