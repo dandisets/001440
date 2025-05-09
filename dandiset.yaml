@@ -24,7 +24,8 @@ assetsSummary:
 citation: Däschler, Simeon; Bourget, Marie-Hélène; Collin, Armand; Derakhshan, Dorsa;
   Sharma, Vasudev; Asenov, Stoyan; Gordon, Tessa; Cohen-Adad, Julien; Borschel, Gregory
   Howard (2025) Bright-Field Images of Rat Nerves at Different Regeneration Stages
-  with Axon and Myelin Segmentations (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001440/draft
+  with Axon and Myelin Segmentations (Version 0.250509.1913) [Data set]. DANDI Archive.
+  https://doi.org/10.48324/dandi.001440/0.250509.1913
 contributor:
 - identifier: 0000-0001-8130-7714
   includeInCitation: true
@@ -106,13 +107,14 @@ description: "- Bright-Field Optical Microscopy (BF) dataset for AxonDeepSeg (ht
   \"labels\" in derivatives.\n\n- This dataset is a subset of the full dataset used
   in this publication:\n\n    - https://www.nature.com/articles/s41598-022-10066-6\n\
   \n    - training set for the AxonDeepSeg model developed and validated in the article\n"
+doi: 10.48324/dandi.001440/0.250509.1913
 ethicsApproval: []
-id: DANDI:001440/draft
+id: DANDI:001440/0.250509.1913
 identifier: DANDI:001440
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001440/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001440/0.250509.1913/assets.yaml
 name: Bright-Field Images of Rat Nerves at Different Regeneration Stages with Axon
   and Myelin Segmentations
 publishedBy:
@@ -136,6 +138,6 @@ studyTarget:
 - experimental nerve regeneration study
 - axon segmentation
 - myelin segmentation
-url: https://dandiarchive.org/dandiset/001440/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001440/0.250509.1913
+version: 0.250509.1913
 wasGeneratedBy: []
